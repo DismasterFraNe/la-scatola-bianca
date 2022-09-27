@@ -85,7 +85,7 @@ Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli 
 
 ### Intento (opzionale)
 
-Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
+Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi andrà per primo.
 
 ### Come funziona l'iniziativa
 
@@ -295,7 +295,7 @@ Il sistema di tiro salvezza di *La Scatola Bianca* è un adattamento dell'origin
 | ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
 | 1       | 12           | 13              | 14              | 15           | 16                  | 14       |
 | 2       | 12           | 13              | 14              | 15           | 16                  | 13       |
-| 3       | 10           | 11              | 12              | 15           | 14                  | 16       |
+| 3       | 10           | 11              | 12              | 15           | 14                  | 12       |
 | 4       | 10           | 11              | 12              | 12           | 14                  | 11       |
 | 5       | 10           | 11              | 12              | 12           | 14                  | 10       |
 | 6       | 8            | 9               | 10              | 12           | 12                  | 9        |
@@ -325,7 +325,7 @@ Il sistema di tiro salvezza di *La Scatola Bianca* è un adattamento dell'origin
 | ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
 | 1       | 13           | 14              | 13              | 15           | 16                  | 14       |
 | 2       | 12           | 14              | 12              | 14           | 15                  | 13       |
-| 3       | 12           | 14              | 12              | 14           | 15                  | 16       |
+| 3       | 12           | 14              | 12              | 14           | 15                  | 12       |
 | 4       | 11           | 11              | 11              | 13           | 14                  | 11       |
 | 5       | 11           | 11              | 11              | 13           | 14                  | 10       |
 | 6       | 10           | 11              | 10              | 12           | 13                  | 9        |
