@@ -62,7 +62,7 @@ La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'A
 ### Perdersi e Incontri
 Nelle Terre Selvagge, se i personaggi stanno seguendo una strada o un sentiero, non c'è la possibilità di perdersi. Se tuttavia, stanno esplorando territori ignoti, c'è la possibilità di perdere la via in base al terreno che caratterizza l'esagono.
 
-Se su strade segnate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
+Che ci si trovi su strade segnate o in mezzo all'ignoto, c'è sempre la possibilità di un incontro. 
 
 Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure avviene un incontro.
 
