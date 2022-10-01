@@ -259,20 +259,20 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 | Tiro | **Tipo**                               |
 |:----:|:--------------------------------------:|
 | 1    | Armatura o Scudo Maledetto             |
-| 2    | +1 Arma/i a Distanza                   |
+| 2    | Arma/i a Distanza +1                   |
 | 3    | +1 Scudo                               |
-| 4-6  | +1 Arma da Mischia                     |
-| 7-8  | +1 Armatura                            |
+| 4-6  | Arma da Mischia +1                     |
+| 7-8  | Armatura +1                            |
 | 9    | Arma Maledetta                         |
-| 10   | +2 Arma/i a Distanza                   |
-| 11   | +2 Scudo                               |
-| 12   | +2 Arma da Mischia                     |
-| 13   | +2 Armatura                            |
-| 14   | +1 Arma da Mischia con Abilità Minore  |
-| 15   | +3 Arma/i a Distanza                   |
-| 16   | +3 Arma da Mischia                     |
-| 17   | +3 Scudo                               |
-| 18   | +3 Armatura                            |
+| 10   | Arma/i a Distanza +2                   |
+| 11   | Scudo +2                               |
+| 12   | Arma da Mischia +2                     |
+| 13   | Armatura +2                            |
+| 14   | Arma da Mischia con Abilità Minore +1  |
+| 15   | Arma/i a Distanza +3                   |
+| 16   | Arma da Mischia +3                     |
+| 17   | Scudo +3                               |
+| 18   | Armatura +3                            |
 | 19   | Arma insolita (opzionale) o Ritira     |
 | 20   | Armatura insolita (opzionale) o Ritira |
 
@@ -280,9 +280,9 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 | Tiro | **Tipo\***             |
 |:----:|:----------------------:|
-| 1-3  | -1 Arma o Armatura     |
-| 4    | -2 Arma o Armatura     |
-| 5    | -3 Arma o Armatura     |
+| 1-3  | Arma o Armatura -1     |
+| 4    | Arma o Armatura -2     |
+| 5    | Arma o Armatura -3     |
 | 6    | Attira Proiettili \*\* |
 
 \* Non può essere posata senza l'aiuto dell'incantesimo Rimuovere Maledizione
@@ -328,9 +328,9 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 | Tiro | **Tipo**                                         |
 |:----:|:------------------------------------------------:|
-| 1    | +1 Arma contundente che distrugge i non morti    |
-| 2    | +1 Arma lanciata che ritorna in mano             |
-| 3    | +1 Arma, garantisce 1 attacco addizionale/giorno |
+| 1    | Arma contundente +1 che distrugge i non morti    |
+| 2    | Arma lanciata +1 che ritorna in mano             |
+| 3    | Arma +1, garantisce 1 attacco addizionale/giorno |
 | 4    | +1, +2 contro un particolare tipo di nemico      |
 | 5    | +1, +4 contro un particolare tipo di nemico      |
 | 6    | +2, +3 contro un particolare tipo di nemico      |
@@ -343,7 +343,7 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 **Arma contundente che distrugge i non morti**: Le armi contundenti sono la mazza, la fionda, il bastone e il martello da guerra. I non-morti minori (meno di 4 DV) non hanno un tiro salvezza; quelli più potenti sì.
 
-**Arma Congelante**: 1d6 danni da freddo addizionali: tira 1d4-1 per il bonus "per colpire".
+**Arma Congelante**: 1d6 danni da freddo addizionali: tirate 1d4-1 per il bonus "per colpire".
 
 **Arma Danzante**: Combatte in aria per 3 round, come un'arma +1d3.
 
@@ -372,11 +372,11 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 **Armatura Eterea**: Corazza di piastre +3 che permette anche a chi la indossa di diventare inconsistente e incorporeo per 50 volte, dopo di che ritorna a essere una normale corazza di piastre +3. In forma eterea, chi la indossa non può essere colpito e non può attaccare (a meno che anche l'avversario non sia etereo).
 
-**Armatura Fiammeggiante**: +1 armatura circondata da fiamme. Queste fiamme infliggono 1d6 danni agli attaccanti in mischia.
+**Armatura Fiammeggiante**: Armatura +1 circondata da fiamme. Queste fiamme infliggono 1d6 danni agli attaccanti in mischia.
 
 ## Oggetti magici vari
 
-Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 61: Oggetti Vari
 
