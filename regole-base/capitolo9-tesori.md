@@ -238,17 +238,17 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 **Demoni**: Tutte le persone in un raggio di 10' intorno a chi legge sono protette dagli attacchi di 1 demone per round per un periodo di 40 minuti.
 
-**Elementali**: Questa pergamena protegge da un singolo elementale e dura per una durata di 40 minuti.
+**Elementali**: Questa pergamena protegge da un singolo elementale per una durata di 40 minuti.
 
 **Licantropi**: Tutte le persone in un raggio di 10' intorno a chi legge, per la durata di un'ora, sono protette dai licantropi.
 
-**Magia**: Un guscio antimagia circonda e si muove con chi legge per 1 ora, con un raggio di 10'. Gli incantesimi non possono entrare o uscire dal guscio.
+**Magia**: Un guscio antimagia circonda e si muove con chi legge per un'ora, con un raggio di 10'. Gli incantesimi non possono entrare o uscire dal guscio.
 
-**Metallo**: Il metallo non può danneggiare chi legge per la durata di 1 ora.
+**Metallo**: Il metallo non può danneggiare chi legge per la durata di un'ora.
 
-**Non-morto**: Tutti coloro che si trovano in un raggio di 10' dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 2d12 non morti con DV inferiore a 4, e 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro tutti, tranne che contro una vera e propria orda di non-morti.
+**Non-morto**: Tutti coloro che si trovano in un raggio di 10' dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 2d12 non morti con DV inferiore a 4, 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro qualsiasi gruppo di non morti tranne che una vera e propria orda.
 
-**Veleno**: Il veleno non può danneggiare chi legge per un periodo di 6 ore, e qualsiasi veleno nel suo sistema viene rimosso.
+**Veleno**: Il veleno non può danneggiare chi legge per un periodo di 6 ore, e qualsiasi veleno nel suo corpo viene rimosso.
 
 ## Armi e Armature Magiche
 
@@ -285,7 +285,7 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 | 5    | -3 Arma o Armatura     |
 | 6    | Attira Proiettili \*\* |
 
-\* Non può essere posate senza l'aiuto dell'incantesimo Rimuovere Maledizione
+\* Non può essere posata senza l'aiuto dell'incantesimo Rimuovere Maledizione
 
 \*\*Attira Proiettili: Questo oggetto attira il fuoco dei proiettili (anche quelli sparati contro altri nelle vicinanze) e garantisce un bonus di +1 "per colpire" agli attacchi su tali proiettili.
 
@@ -343,9 +343,9 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 **Arma contundente che distrugge i non morti**: Le armi contundenti sono la mazza, la fionda, il bastone e il martello da guerra. I non-morti minori (meno di 4 DV) non hanno un tiro salvezza; quelli più potenti sì.
 
-**Arma Congelante**: 1d6 danni da freddo addizionali: lancia 1d4-1 per il bonus "per colpire".
+**Arma Congelante**: 1d6 danni da freddo addizionali: tira 1d4-1 per il bonus "per colpire".
 
-**Arma Danzante**: Combatte in aria dopo 3 round, come un'arma +1d3.
+**Arma Danzante**: Combatte in aria per 3 round, come un'arma +1d3.
 
 **Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tirate 1d4-1 per il bonus "per colpire".
 
@@ -366,17 +366,17 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 ### Descrizioni di armature insolite
 
-**Armatura che deflette le frecce**: +2 contro il fuoco dei proiettili.
+**Armatura che deflette le frecce**: +2 contro i proiettili.
 
 **Armatura Demoniaca**: Posseduta da uno spirito o da un demone, con effetti che saranno determinati dall'Arbitro.
 
-**Armatura Eterea**: Corazza di piastre +3 che permette anche a chi la indossa di diventare insostanziale e incorporeo per 50 volte, dopo di che ritorna a essere una normale corazza di piastre +3. In forma eterea, chi la indossa non può essere colpito e non può attaccare (a meno che anche l'avversario non sia etereo).
+**Armatura Eterea**: Corazza di piastre +3 che permette anche a chi la indossa di diventare inconsistente e incorporeo per 50 volte, dopo di che ritorna a essere una normale corazza di piastre +3. In forma eterea, chi la indossa non può essere colpito e non può attaccare (a meno che anche l'avversario non sia etereo).
 
-**Armatura Fiammeggiante**: +1 armatura che è circondata da fiamme. Queste fiamme infliggono 1d6 danni agli attaccanti in mischia.
+**Armatura Fiammeggiante**: +1 armatura circondata da fiamme. Queste fiamme infliggono 1d6 danni agli attaccanti in mischia.
 
 ## Oggetti magici vari
 
-Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
+Tira 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 61: Oggetti Vari
 
@@ -529,7 +529,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Assorbimento**: Assorbe gli incantesimi lanciati direttamente a chi lo impugna e permette a chi lo impugna di lanciare un incantesimo dalla propria memoria usando quel potere (e quindi non perdendo l'incantesimo dalla memoria). Una volta che il bastone ha assorbito 50 livelli di incantesimi (che il potere sia stato rilanciato o meno), non assorbe più gli incantesimi.
 
-**Ammaliatore**: Lancia Ammaliare le Persone in un raggio di 20' da chi lo impugna (usa una carica). La durata dell'incanto è di 1 ora.
+**Ammaliatore**: Lancia Ammaliare le Persone in un raggio di 20' da chi lo impugna (usa una carica). La durata dell'incanto è di un'ora.
 
 **Avvizzire**: Aggiunge dieci anni di invecchiamento fisico con un successo.
 
@@ -726,7 +726,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
   
   - *Regina*: Guadagnate 1d3 desideri
   
-  - *Jack*: Ottenete la capacità di evocare un guerriero con 8 DV e +3 spade, scudo, da servire per un totale di 1 ora.
+  - *Jack*: Ottenete la capacità di evocare un guerriero con 8 DV e +3 spade, scudo, da servire per un totale di un'ora.
 
 - **Fiori** (♣)
   
